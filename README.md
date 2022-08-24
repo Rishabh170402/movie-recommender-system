@@ -1,6 +1,6 @@
 # movie-recommender-system
 
-### Website Link ### - https://mrs-rishabh.herokuapp.com/
+### Website Link - https://mrs-rishabh.herokuapp.com/
 # Movie-Recommendation-System
 
 ## What are Recommender Systems?
@@ -29,7 +29,7 @@ There are several ways to measure the similarity between two items. In this proj
 # DEMO
 <br>
 
-https://user-images.githubusercontent.com/54664361/169016164-62659680-a183-49c9-a04d-c194fd81c7fd.mp4
+
 
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)

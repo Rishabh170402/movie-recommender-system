@@ -30,7 +30,7 @@ There are several ways to measure the similarity between two items. In this proj
 <br>
 
 
-
+https://drive.google.com/file/d/1syW1mjGRHOBFR7ZYbKY--BjgcVvwCaPO/view?usp=sharing
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 

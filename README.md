@@ -26,13 +26,10 @@ There are several ways to measure the similarity between two items. In this proj
 
 <br><br>
 
-# DEMO
-
-
+## Screenshot
 <p>
-<video src="https://user-images.githubusercontent.com/110810472/187011306-d431a550-f41c-44b8-be55-d3771a35d1f9.mp4" width=1366 height=1000 /video>
-
-  </p>
+<img src="https://github.com/Rishabh170402/movie-recommender-system/blob/main/Screenshot/Capture.JPG" width="1366" height="659"/>
+</p>
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 

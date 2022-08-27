@@ -31,9 +31,10 @@ There are several ways to measure the similarity between two items. In this proj
 
 https://user-images.githubusercontent.com/110810472/186822208-a08b7d74-e79e-421d-95ed-a7953bb16f17.mp4
 
+<p>
+<video src="https://github.com/Rishabh170402/movie-recommender-system/blob/main/Video.mp4" width="1366" height="678" /video>
+</p>
 
-
-https://user-images.githubusercontent.com/110810472/186822536-8af054d9-3ec2-4598-90eb-82dd367d7897.mp4
 
 
 
